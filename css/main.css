@@ -1,0 +1,168 @@
+*{
+font-family: 'Roboto', sans-serif;}
+body{
+	background-color: pink
+}
+.yellow{
+	background-color: yellow;
+	padding: 1% 0%;
+}
+.container {
+	background-color: white;
+    width: 1200px;
+    padding-right: 0px;
+    padding-left: 0px;
+   } 
+h3, h4{
+	margin: 0 !important;
+}
+.yellow h1{
+	float: left;
+	clear: left;
+}
+.yellow p{
+	float: right;
+    padding: 0 3px;
+    margin-top: 8px
+   	
+}
+.yellow input{
+	    float: right;
+    margin: 7px 3px;
+}
+.yellow button{
+	float: right;
+    clear: right;
+    margin: 7px 3px;
+}
+.nav-tabs {
+    border-bottom: none;
+    background-color: #D6D6D6;
+    padding: 4% 1% 0;
+}
+.nav-tabs a{
+	color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+.yellow a {
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+}    
+.box-subtitle {
+	padding: 5px 12px 8px 5px;
+    background-color: gray;
+    color: white;
+    display: inline-block;
+}
+.box-subtitle p{
+	margin: 0;
+}
+.article-text{
+	text-align: justify;
+}
+.link-icon{
+	color: black;
+	margin-bottom: 1px;
+	
+}
+.glyphicon-bookmark{
+	margin-right: 56px;
+}
+.article{
+	padding-bottom: 3.5%;
+    padding-top: 5%;
+    border-bottom: 1px solid gray;
+}
+.link-article{
+	color: black;
+    text-decoration: none;
+}
+.webzone{
+	background-color: black;
+	color: white;
+	padding: 0 20px;
+	float: left;
+	clear: left;
+	margin-right: 15px;
+}
+.webzone p{
+	margin-bottom: 0;
+}
+.photo{
+	padding: 20%;
+    background-color: #AAAAAA;
+    text-align: center;
+
+}
+.border-none{
+	border-bottom: none;
+}
+.video{
+	  margin-top: 8%;
+    padding: 0 1%;
+    background-color: #D6D6D6;
+}
+.video iframe{
+	width: 100%;
+	height: 240px;
+}
+.video p{
+	text-align: justify;
+}
+.text-muted2{
+	float: left;
+	
+}
+.claire-icon{
+	float: right;
+	clear: right;
+}     
+.agenda{
+	padding: 5px 108px 8px 5px;
+    background-color: gray;
+    color: white;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 40%
+}
+
+.day{
+	margin: 0;
+	background-color: #AAAAAA;
+	padding: 5%;
+	margin-right: 2%;
+	text-align: center;
+	float: left;
+}
+.text-agenda{
+	float: left;
+	margin-top: 1%;
+	margin-bottom: 3%;
+}
+.text-agenda p{
+	    margin-bottom: 12px;
+}
+footer{
+	border-top: 5px solid #444444;
+	padding-left: 0!important;
+	padding-right: 0!important;
+	padding: 1% 0;
+	 clear: both;
+
+}
+footer > .lista-container{
+	width: 19%;;
+	display: inline-block;
+}
+.lista-container > h3{
+	font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+.lista-container a{
+	font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
